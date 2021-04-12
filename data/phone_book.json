@@ -1,7 +1,32 @@
 [
-    {
-    "name":   "Antdroid",
-    "phones": [ "Antdromeda" ]
-  }
+	{
+	"name":   "Antdroid",
+    	"phones": [ "Antdromeda" ]
+	},
+	{
+	"name":   "64 Audio",
+    	"phones": [ {"name":"Nio","file":["Nio M15","Nio M20", "Nio MX", "Nio No Filter"]}, "Tia Trio", {"name":"U12t","file":["U12t M15","U12t M20"]} ]
+	},
+	{
+	"name":   "AKG",
+    	"phones": [ "Samsung IG955BSEGW" ]
+},
+	{
+	"name":   "Audeze",
+    	"phones": [ "LCD i4", "LCD i4 - Cipher" ]
+},
+	{
+	"name":   "Audio",
+    	"phones": [ "Lokahi" ]
+},
+	{
+	"name":   "Audiofly",
+    	"phones": [ "AF1120 mk2" ]
+},
+	{
+	"name":   "Aune",
+    	"phones": [ "Jasper" ]
+}
+
 
 ]
