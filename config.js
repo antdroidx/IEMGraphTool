@@ -19,7 +19,7 @@ const max_channel_imbalance = 5;
 
 const targets = [
     { type:"Neutral"   , files:["Crinacle","Diffuse Field","Etymotic","Free Field","Innerfidelity ID"] },
-    { type:"Preference", files:["Antdroid","Harman","Rtings","Sonarworks"] }
+    { type:"Preference", files:["Antdroid","Harman","Rtings","Sonarworks","Toranku V5"] }
 ];
 
 const init_phones = [ "Antdroid Target" ];
