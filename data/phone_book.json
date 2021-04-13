@@ -45,6 +45,9 @@
   {	"name":   "DIY Earphones",
     "phones": [ "DIY Xelento" ]
   },
+  {	"name":   "Drop",
+    "phones": [ "x Nuforce Move TWS" ]
+  },
   {	"name":   "Dunu",
     "phones": [ "DK2001", "DK3001 Pro", "EST 112", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Zen" ]
 
@@ -86,7 +89,7 @@
     "phones": [ "BD005 Pro"]
   },
   {	"name":   "KZ",
-    "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX", "ZS7", "ZS10 Pro", "ZSN Pro", "ZSX"]
+    "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX", "E10 TWS", "S2 TWS", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
   },
   {	"name":   "LZ",
     "phones": ["A7 off Black", "A7 off Blue", "A7 off Gold", "A7 off Red", "A7 off Silver", "A7 on Black", "A7 on Blue", "A7 on Gold", "A7 on Red", "A7 on Silver"]
@@ -124,6 +127,12 @@
   {	"name":   "qkz",
     "phones": [ "VK4"]
   },
+  {	"name":   "Sabbat",
+    "phones": [ "E12 Ultra TWS"]
+  },
+  {	"name":   "Samsung",
+    "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}]
+  },
   {	"name":   "SeeAudio",
     "phones": [ "Yume"]
   },
@@ -137,16 +146,19 @@
     "phones": [ "EN700 Pro"]
   },
   {	"name":   "Sony",
-    "phones": [ "IER-M9", "MH755"]
+    "phones": [ "IER-M9", "MH755", "WF-1000XM3"]
   },
-  {	"name":   "Thieaduio",
+  {	"name":   "Status Audio",
+    "phones": [ "BT Transfer"]
+  },
+  {	"name":   "Thieaudio",
     "phones": [ "Clairvoyance", {"name":"Legacy 3","file":["Legacy 3", "Legacy 3 01", "Legacy 3 10", "Legacy 3 11"]}, {"name":"Legacy 4","file":["Legacy 4", "Legacy 4 01", "Legacy 4 10", "Legacy 4 11"]}, "Legacy 5", "Monarch", {"name":"Voyager 3","file":["Voyager 3", "Voyager 3 01", "Voyager 3 10", "Voyager 3 11"]}, "Voyager 14"]
   },
   {	"name":   "TFZ",
     "phones": [ "No3"]
   },
   {	"name":   "Tin Hifi",
-    "phones": [ "P1", "P1 Beta", "P2", "T1 Plus", "T2 Plus", "T4"]
+    "phones": [ "P1", "P1 Beta", "P2", "T1 Plus", "T2 Plus", "T4", "TWS 2000", "TWS 2000 Wired"]
   },
   {	"name":   "Tipsy",
     "phones": [ "Dunmer Pro"]
