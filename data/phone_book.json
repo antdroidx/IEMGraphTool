@@ -56,7 +56,10 @@
     "phones": [ "Odin", "Wraith", "Valkyrie" ]
   },
   {	"name":   "Etymotic",
-    "phones": [ "ER2SE", "ER2XR", "ER3SE", "ER3XR", "ER3XR - 75ohm", "ER3XR - Long Stem", "ER4XR" ]
+    "phones": [ "ER2SE", "ER2XR", "ER3SE", "ER3XR", "ER3XR - 75ohm", "ER3XR - Long Stem", "ER4XR"]
+  },
+  {	"name":   "Etymotic Filter Kit",
+    "phones": [ "ER3XR Green", "ER3XR Brown", "ER3XR Red", "ER3XR Orange", "ER3XR White", "ER3XR None"]
   },
   {	"name":   "F-Audio",
     "phones": [ "Major" ]
