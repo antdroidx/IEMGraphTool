@@ -1,35 +1,172 @@
 [
-	{
-	"name":   "Antdroid",
-    	"phones": [ "Antdromeda" ]
-	},
-	{
-	"name":   "64 Audio",
-    	"phones": [ {"name":"Nio","file":["Nio M15","Nio M20", 	"Nio MX", "Nio No Filter"]}, "Tia Trio", 	{"name":"U12T","file":["U12T M15","U12T M20"]} ]
-	},
-	{
-	"name":   "AKG",
-    	"phones": [ "Samsung IG955BSEGW" ]
-},
-	{
-	"name":   "Audeze",
-    	"phones": [ "LCD i4", "LCD i4 - Cipher" ]
-},
-	{
-	"name":   "Audio",
-    	"phones": [ "Lokahi" ]
-},
-	{
-	"name":   "Audiofly",
-    	"phones": [ "AF1120 mk2" ]
-},
-	{
-	"name":   "Aune",
-    	"phones": [ "Jasper" ]
-},
-{
-	"name":   "BGVP",
-    	"phones": [ {"name":"ArtMagic V12","file":["ArtMagic V12","ArtMagic V12 - 00", "ArtMagic V12 - 01", "ArtMagic V12 - 10", "ArtMagic V12 - 11"]}, "DM6", "DM7", "DMS"]
-	}
+  {	"name":   "Antdroid",
+    "phones": [ "Antdromeda" ]
+  },
+  {	"name":   "64 Audio",
+    "phones": [ {"name":"Nio","file":["Nio M15","Nio M20", 	"Nio MX", "Nio No Filter"]}, "Tia Trio", {"name":"U12T","file":["U12T M15","U12T M20"]} ]
+  },
+  {	"name":   "AKG",
+    "phones": [ "Samsung IG955BSEGW" ]
+  },
+  {	"name":   "Audeze",
+    "phones": [ "LCD i4", "LCD i4 - Cipher" ]
+  },
+  {	"name":   "Audio",
+    "phones": [ "Lokahi" ]
+  },
+  {	"name":   "Audiofly",
+    "phones": [ "AF1120 mk2" ]
+  },
+  {	"name":   "Aune",
+    "phones": [ "Jasper" ]
+  },
+  {	"name":   "BGVP",
+    "phones": [ {"name":"ArtMagic V12","file":["ArtMagic V12","ArtMagic V12 - 00", "ArtMagic V12 - 01", "ArtMagic V12 - 10", "ArtMagic V12 - 11"]}, "DM6", "DM7", "DMS"]
+  },
+  {	"name":   "Blon",
+    "phones": [ "BL-03", "BL-05" ]
+  },
+  {	"name":   "BQEYZ",
+    "phones": [ "Spring 2" ]
+  },
+  {	"name":   "Campfire",
+    "suffix":	"Audio",
+    "phones": [ {"name":"Andromeda","file":["Andromeda","Andromeda - 2.7 Ohm"]},{"name":"Andromeda Gold","file":["Andromeda Gold","Andromeda Gold - 2.7 Ohm"]}, "Andromeda 2020", "Dorado 2020", "IO", "Solaris", "Solaris 2020", "Vega 2020"]
+  },
+  {	"name":   "Cat Ear",
+    "phones": [ "Mia" ]
+  },
+  {	"name":   "CCA",
+    "phones": [ "CX10" ]
+  },
+  {	"name":   "Custom Art",
+    "phones": [ "Fibae 7" ]
+  },
+  {	"name":   "DIY Earphones",
+    "phones": [ "DIY Xelento" ]
+  },
+  {	"name":   "Dunu",
+    "phones": [ "DK2001", "DK3001 Pro", "EST 112", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Zen" ]
 
+  },
+  {	"name":   "Empire Ears",
+    "phones": [ "Odin", "Wraith", "Valkyrie" ]
+  },
+  {	"name":   "Etymotic",
+    "phones": [ "ER2SE", "ER2XR", "ER3SE", "ER3XR", "ER3XR - 75ohm", "ER3XR - Long Stem", "ER4XR" ]
+  },
+  {	"name":   "F-Audio",
+    "phones": [ "Major" ]
+  },
+  {	"name":   "Fearless",
+    "phones": [ "x Crinacle Dawn", "S4", "S8Z", "Tequila" ]
+
+  },
+  {	"name":   "Fiio",
+    "phones": [ "FA7" ]
+  },
+  {	"name":   "Final",
+    "suffix":	"Audio",
+    "phones": [ "E1000", "E1000 (Vent Mod)"]
+  },
+  {
+    "name":   "GuideRay",
+    "phones": [ "GR-I18"]
+  },
+  {	"name":   "Hidition",
+    "phones": [ "Viento A", "Viento B", "Viento C", "Viento D", "Viento-B CIEM"]
+  },
+  {	"name":   "iBasso",
+    "phones": [ "IT01s", "IT04"]
+  },
+  {	"name":   "KB Ear",
+    "phones": [ "Hi7"]
+  },
+  {	"name":   "Kinera",
+    "phones": [ "BD005 Pro"]
+  },
+  {	"name":   "KZ",
+    "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX", "ZS7", "ZS10 Pro", "ZSN Pro", "ZSX"]
+  },
+  {	"name":   "LZ",
+    "phones": ["A7 off Black", "A7 off Blue", "A7 off Gold", "A7 off Red", "A7 off Silver", "A7 on Black", "A7 on Blue", "A7 on Gold", "A7 on Red", "A7 on Silver"]
+  },
+  {	"name":   "Mangird",
+    "phones": [ "MT4", "Tea"]
+  },
+  {	"name":   "Meze",
+    "phones": [ "Rai Penta"]
+  },
+  {	"name":   "MMR",
+    "phones": [ "Homunculus", "Thummim"]
+  },
+  {	"name":   "Moondrop",
+    "phones": [ "Blessing 2", "Dusk", "Kanas Pro", "KXXS", "Spaceship", "SSR"]
+  },
+  {	"name":   "Newmine",
+    "phones": [ "R9 TWS"]
+  },
+  {	"name":   "NiceHCK",
+    "phones": [ "NX7 Pro Silver", "NX7 Pro Blue", "NX7 Pro Red"]
+  },
+  {	"name":   "Noble",
+    "phones": [ "Sultan"]
+  },
+  {	"name":   "Peacock",
+    "phones": [ "P1"]
+  },
+  {	"name":   "Prisma Audio",
+    "phones": [ "Azul"]
+  },
+  {	"name":   "qdc",
+    "phones": [ {"name":"Anole VX","file":["Anole VX", "Anole VX 001", "Anole VX 010", "Anole VX 011", "Anole VX 011", "Anole VX 100", "Anole VX 101", "Anole VX 110", "Anole VX 111"]}, "Uranus"]
+  },
+  {	"name":   "qkz",
+    "phones": [ "VK4"]
+  },
+  {	"name":   "SeeAudio",
+    "phones": [ "Yume"]
+  },
+  {	"name":   "Shozy",
+    "phones": [ "Form 1.1", "Form 1.4", "V33"]
+  },
+  {	"name":   "Shuoer",
+    "phones": [ "H27", "Singer", "Singer Blue Filter", "Tape Pro", "Tape Pro Silver Filter"]
+  },
+  {	"name":   "Simgot",
+    "phones": [ "EN700 Pro"]
+  },
+  {	"name":   "Sony",
+    "phones": [ "IER-M9", "MH755"]
+  },
+  {	"name":   "Thieaduio",
+    "phones": [ "Clairvoyance", {"name":"Legacy 3","file":["Legacy 3", "Legacy 3 01", "Legacy 3 10", "Legacy 3 11"]}, {"name":"Legacy 4","file":["Legacy 4", "Legacy 4 01", "Legacy 4 10", "Legacy 4 11"]}, "Legacy 5", "Monarch", {"name":"Voyager 3","file":["Voyager 3", "Voyager 3 01", "Voyager 3 10", "Voyager 3 11"]}, "Voyager 14"]
+  },
+  {	"name":   "TFZ",
+    "phones": [ "No3"]
+  },
+  {	"name":   "Tin Hifi",
+    "phones": [ "P1", "P1 Beta", "P2", "T1 Plus", "T2 Plus", "T4"]
+  },
+  {	"name":   "Tipsy",
+    "phones": [ "Dunmer Pro"]
+  },
+  {	"name":   "Tri",
+    "phones": [{"name":"i4","file":"Tri i4"}]
+  },
+  {	"name":   "Tripowin",
+    "phones": [ "TC01", "TP10"]
+  },
+  {	"name":   "TRN",
+    "phones": [ "V90", {"name":"VX","file":"TRN VX"}]
+  },
+  {	"name":   "Unique Melody",
+    "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST"]
+  },
+  {	"name":   "Vision Ears",
+    "phones": [ {"name":"Elysium","file":["Elysium", "Elysium 2 ohm"]}, {"name":"Erlkonig","file":["Erlkonig 1", "Erlkonig 2", "Erlkonig 3", "Erlkonig 4"]}, "EVE20"]
+  },
+  {	"name":   "WG",
+    "phones": [ "T One"]
+  }
 ]
