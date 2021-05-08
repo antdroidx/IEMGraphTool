@@ -16,7 +16,7 @@ page_title = "Audio Discourse Graphs";                     // Optional. Appended
 // Specify which targets to display
 const targets = [
     { type:"Neutral"   , files:["Crinacle","Diffuse Field","Etymotic","Free Field","Innerfidelity ID"] },
-    { type:"Preference", files:["Antdroid","Harman","Precogvision","Rtings","Sonarworks","Toranku V5"] }
+    { type:"Preference", files:["Antdroid","Harman","Precog","Rtings","Sonarworks","Toranku V5"] }
 ];
 
 
