@@ -16,7 +16,7 @@ page_title = "Audio Discourse Graphs";                     // Optional. Appended
 // Specify which targets to display
 const targets = [
     { type:"Industry"   , files:["Etymotic","Harman"] },
-    { type:"Reviewer", files:["Antdroid","BGGAR","Precog","Toranku"] }
+    { type:"Reviewer", files:["Antdroid","BGGAR","Oratory1990","Precog","Toranku"] }
 ];
 
 
