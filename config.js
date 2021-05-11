@@ -15,8 +15,9 @@ page_title = "Audio Discourse Graphs";                     // Optional. Appended
 
 // Specify which targets to display
 const targets = [
-    { type:"Industry"   , files:["Etymotic","Harman","In-Ear Fidelity"] },
-    { type:"User", files:["Antdroid","BGGAR","Oratory1990","Precog","Toranku"] }
+    //{ type:"Industry"   , files:["Etymotic","Harman","In-Ear Fidelity"] },
+   //{ type:"Reviewer", files:["Antdroid","BGGAR","Oratory1990","Precog","Toranku"] }
+    { type:"", files:["Antdroid","BGGAR","Etymotic","Harman","In-Ear Fidelity","USOUND1V1 Oratory1990","Precog","Super","Toranku"] }
 ];
 
 
