@@ -79,6 +79,10 @@
     "name":   "GuideRay",
     "phones": [ "GR-I18"]
   },
+  {
+    "name":   "HarmonicDyne",
+    "phones": [ "PD1"]
+  },
   {	"name":   "Hidition",
     "phones": [ "Viento A", "Viento B", "Viento C", "Viento D", "Viento-B CIEM"]
   },
