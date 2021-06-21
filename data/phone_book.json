@@ -24,7 +24,7 @@
     "phones": [ {"name":"ArtMagic V12","file":["ArtMagic V12","ArtMagic V12 - 00", "ArtMagic V12 - 01", "ArtMagic V12 - 10", "ArtMagic V12 - 11"]}, "DM6", "DM7", "DMS"]
   },
   {	"name":   "Blon",
-    "phones": [ "BL-03", "BL-05" ]
+    "phones": [ "BL-03", "BL-05", "BL-A8" ]
   },
   {	"name":   "BQEYZ",
     "phones": [ "Spring 2" ]
