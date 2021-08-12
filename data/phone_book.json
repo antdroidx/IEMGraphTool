@@ -52,7 +52,7 @@
     "phones": [ "x Nuforce Move TWS" ]
   },
   {	"name":   "Dunu",
-    "phones": [ "DK2001", "DK3001 Pro", "EST 112", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Zen" ]
+    "phones": [ "DK2001", "DK3001 Pro", "EST 112", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Zen","Zen Pro" ]
 
   },
   {	"name":   "Empire Ears",
@@ -69,7 +69,6 @@
   },
   {	"name":   "Fearless",
     "phones": [ "x Crinacle Dawn", "S4", "S8Z", "Tequila" ]
-
   },
   {	"name":   "Fiio",
     "phones": [ "FA7" ]
@@ -77,6 +76,10 @@
   {	"name":   "Final",
     "suffix":	"Audio",
     "phones": [ "E1000", "E1000 (Vent Mod)"]
+  },
+  {
+    "name":   "Gold Planar",
+    "phones": [ "GL12 Filter", "GL12 No Filter"]
   },
   {
     "name":   "GuideRay",
@@ -127,6 +130,9 @@
   },
   {	"name":   "Noble",
     "phones": [ "Sultan"]
+  },
+  {	"name":   "Ovidius",
+    "phones": [ "RX-100"]
   },
   {	"name":   "Peacock",
     "phones": [ "P1"]
