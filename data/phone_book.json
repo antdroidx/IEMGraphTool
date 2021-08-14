@@ -49,7 +49,7 @@
     "phones": [ "DIY Xelento" ]
   },
   {	"name":   "Drop",
-    "phones": [ "x Nuforce Move" ]
+    "phones": [ {"name":"x Nuforce Move","file":"Move"} ]
   },
   {	"name":   "Dunu",
     "phones": [ "DK2001", "DK3001 Pro", "EST 112", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Zen","Zen Pro" ]
