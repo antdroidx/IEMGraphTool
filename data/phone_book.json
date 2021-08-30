@@ -31,7 +31,7 @@
   },
   {	"name":   "Campfire",
     "suffix":	"Audio",
-    "phones": [ {"name":"Andromeda","file":["Andromeda","Andromeda - 2.7 Ohm"]},{"name":"Andromeda Gold","file":["Andromeda Gold","Andromeda Gold - 2.7 Ohm"]}, "Andromeda 2020", "Dorado 2020", "IO", "Solaris", "Solaris 2020", "Vega 2020"]
+    "phones": [ {"name":"Andromeda","file":["Andromeda","Andromeda - 2.7 Ohm"]},{"name":"Andromeda Gold","file":["Andromeda Gold","Andromeda Gold - 2.7 Ohm"]}, "Andromeda 2020", "Dorado 2020", "Holocene","Honeydew","IO","Mammoth","Satsuma", "Solaris", "Solaris 2020", "Vega 2020"]
   },
   {	"name":   "Cat Ear",
     "phones": [ "Mia" ]
