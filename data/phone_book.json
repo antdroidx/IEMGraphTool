@@ -108,7 +108,7 @@
     "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX", "E10 TWS", "S2 TWS", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
   },
   {	"name":   "LZ",
-    "phones": [{"name":"A4 Pro (Disc, Nozzle)","file":["LZ A4 Pro Blk Blk", "LZ A4 Pro Blk Blu", "LZ A4 Pro Blk Sil","LZ A4 Pro Blk Red","LZ A4 Pro Blu Blk","LZ A4 Pro Blu Blu", "LZ A4 Pro Blu Sil","LZ A4 Pro Blu Blk","LZ A4 Pro Red Blk","LZ A4 Pro Red Blu","LZ A4 Pro Red Sil","LZ A4 Pro Red Red"]},{"name":"A7 (Switch, Nozzle)","file":["A7 off Black", "A7 off Blue", "A7 off Gold", "A7 off Red", "A7 off Silver", "A7 on Black", "A7 on Blue", "A7 on Gold", "A7 on Red", "A7 on Silver"]}]
+    "phones": [{"name":"A4 Pro (Disc, Nozzle)","file":["LZ A4 Pro Blk Blk", "LZ A4 Pro Blk Blu", "LZ A4 Pro Blk Sil","LZ A4 Pro Blk Red","LZ A4 Pro Blu Blk","LZ A4 Pro Blu Blu", "LZ A4 Pro Blu Sil","LZ A4 Pro Blu Red","LZ A4 Pro Red Blk","LZ A4 Pro Red Blu","LZ A4 Pro Red Sil","LZ A4 Pro Red Red"]},{"name":"A7 (Switch, Nozzle)","file":["A7 off Black", "A7 off Blue", "A7 off Gold", "A7 off Red", "A7 off Silver", "A7 on Black", "A7 on Blue", "A7 on Gold", "A7 on Red", "A7 on Silver"]}]
   },
   {	"name":   "Mangird",
     "phones": [ "MT4", "Tea"]
