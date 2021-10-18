@@ -1,9 +1,10 @@
 [
-  {	"name":   "Antdroid",
-    "phones": [ "Antdromeda" ]
-  },
+
   {	"name":   "64 Audio",
     "phones": [ {"name":"Nio","file":["Nio M15","Nio M20", 	"Nio MX", "Nio No Filter"]}, "Tia Trio", {"name":"U12T","file":["U12T M15","U12T M20"]} ]
+  },
+  {	"name":   "7Hz",
+    "phones": [ "Timeless" ]
   },
   {	"name":   "AKG",
     "phones": [ "Samsung IG955BSEGW" ]
