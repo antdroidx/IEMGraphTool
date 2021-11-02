@@ -53,8 +53,7 @@
     "phones": [ {"name":"x Nuforce Move","file":"Move"} ]
   },
   {	"name":   "Dunu",
-    "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Zen","Zen Pro" ]
-
+    "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S","Zen","Zen Pro" ]
   },
   {	"name":   "Empire Ears",
     "phones": [ {"name":"Odin", "file":["Odin","Odin Sample 2"]}, "Wraith", "Valkyrie" ]
