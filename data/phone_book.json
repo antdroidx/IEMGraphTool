@@ -77,6 +77,10 @@
     "suffix":	"Audio",
     "phones": [ "E1000", "E1000 (Vent Mod)"]
   },
+  {	"name":   "FiR",
+  "suffix":	"Audio",
+  "phones": [ "VxV"]
+  },
   {
     "name":   "Gold Planar",
     "phones": [ "GL12 Filter", "GL12 No Filter"]
