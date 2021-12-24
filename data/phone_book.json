@@ -38,7 +38,7 @@
     "phones": [ "Mia" ]
   },
   {	"name":   "CCA",
-    "phones": [ "CX10" ]
+    "phones": [ "CRA", "CX10" ]
   },
   {	"name":   "Custom Art",
     "phones": [ "Fibae 7" ]
@@ -109,7 +109,7 @@
     "phones": [ "Orchestra"]
   },
   {	"name":   "KZ",
-    "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX", "E10 TWS", "S2 TWS", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
+    "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX","Crinacle CRN", "E10 TWS", "S2 TWS","ZEX Pro", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
   },
   {	"name":   "LZ",
     "phones": [{"name":"A4 Pro (Disc, Nozzle)","file":["LZ A4 Pro Blk Blk", "LZ A4 Pro Blk Blu", "LZ A4 Pro Blk Sil","LZ A4 Pro Blk Red","LZ A4 Pro Blu Blk","LZ A4 Pro Blu Blu", "LZ A4 Pro Blu Sil","LZ A4 Pro Blu Red","LZ A4 Pro Red Blk","LZ A4 Pro Red Blu","LZ A4 Pro Red Sil","LZ A4 Pro Red Red"]},{"name":"A7 (Switch, Nozzle)","file":["A7 off Black", "A7 off Blue", "A7 off Gold", "A7 off Red", "A7 off Silver", "A7 on Black", "A7 on Blue", "A7 on Gold", "A7 on Red", "A7 on Silver"]}]
@@ -184,7 +184,7 @@
     "phones": [ "No3"]
   },
   {	"name":   "Tin Hifi",
-    "phones": [ {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P2", "T1 Plus", "T2 Evo", "T2 Plus", "T4", "T5", "TWS 2000", "TWS 2000 Wired"]
+    "phones": [ {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P2", "T1 Plus", "T2 Evo", "T2 Plus", "T3 Plus", "T4", "T5", "TWS 2000", "TWS 2000 Wired"]
   },
   {	"name":   "Tipsy",
     "phones": [ "Dunmer Pro"]
