@@ -50,7 +50,7 @@
     "phones": [ "DIY Xelento" ]
   },
   {	"name":   "Drop",
-    "phones": [ {"name":"x Nuforce Move","file":"Move"} ]
+    "phones": [ "Grell TWS1X", {"name":"x Nuforce Move","file":"Move"} ]
   },
   {	"name":   "Dunu",
     "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S","Zen","Zen Pro" ]
