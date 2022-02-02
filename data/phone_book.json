@@ -112,7 +112,7 @@
     "phones": [ "Orchestra"]
   },
   {	"name":   "KZ",
-    "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX","Crinacle CRN", "E10 TWS", "S2 TWS","ZEX Pro", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
+    "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX","x HBB DQ6S","Crinacle CRN", "E10 TWS", "S2 TWS","ZEX Pro", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
   },
   {	"name":   "LZ",
     "phones": [{"name":"A4 Pro (Disc, Nozzle)","file":["LZ A4 Pro Blk Blk", "LZ A4 Pro Blk Blu", "LZ A4 Pro Blk Sil","LZ A4 Pro Blk Red","LZ A4 Pro Blu Blk","LZ A4 Pro Blu Blu", "LZ A4 Pro Blu Sil","LZ A4 Pro Blu Red","LZ A4 Pro Red Blk","LZ A4 Pro Red Blu","LZ A4 Pro Red Sil","LZ A4 Pro Red Red"]},{"name":"A7 (Switch, Nozzle)","file":["A7 off Black", "A7 off Blue", "A7 off Gold", "A7 off Red", "A7 off Silver", "A7 on Black", "A7 on Blue", "A7 on Gold", "A7 on Red", "A7 on Silver"]}]
@@ -181,7 +181,7 @@
     "phones": [ "Helios"]
   },
   {	"name":   "Thieaudio",
-    "phones": [ "Clairvoyance", "Legacy 2", {"name":"Legacy 3","file":["Legacy 3", "Legacy 3 01", "Legacy 3 10", "Legacy 3 11"]}, "Legacy 3 CIEM", {"name":"Legacy 4","file":["Legacy 4", "Legacy 4 01", "Legacy 4 10", "Legacy 4 11"]}, "Legacy 5", "Monarch", "Monarch MK2", {"name":"Voyager 3","file":["Voyager 3", "Voyager 3 01", "Voyager 3 10", "Voyager 3 11"]}, "Voyager 14"]
+    "phones": [ "Clairvoyance", "Legacy 2", {"name":"Legacy 3","file":["Legacy 3", "Legacy 3 01", "Legacy 3 10", "Legacy 3 11"]}, "Legacy 3 CIEM", {"name":"Legacy 4","file":["Legacy 4", "Legacy 4 01", "Legacy 4 10", "Legacy 4 11"]}, "Legacy 5", {"name":"Monarch","file":["Monarch","Monarch (Sample 2)"]}, "Monarch MK2", {"name":"Voyager 3","file":["Voyager 3", "Voyager 3 01", "Voyager 3 10", "Voyager 3 11"]}, "Voyager 14"]
   },
   {	"name":   "TFZ",
     "phones": [ "No3"]
@@ -205,7 +205,7 @@
     "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}]
   },
   {	"name":   "Vision Ears",
-    "phones": [ {"name":"Elysium","file":["Elysium", "Elysium 2 ohm"]}, {"name":"Erlkonig","file":["Erlkonig 1", "Erlkonig 2", "Erlkonig 3", "Erlkonig 4"]}, "EVE20", "VE8"]
+    "phones": [ {"name":"Elysium","file":["Elysium", "Elysium 2 ohm"]}, {"name":"Erlkonig","file":["Erlkonig 1", "Erlkonig 2", "Erlkonig 3", "Erlkonig 4"]}, "EVE20", "EXT","Phonix", "VE8"]
   },
   {	"name":   "WG",
     "phones": [ "T One"]
