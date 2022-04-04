@@ -214,7 +214,7 @@ yAxisObj.insert("text")
 
 
 // x axis
-let xvals = [2,3,4,5,6,8,10,15];
+let xvals = [2,3,4,5,6.5,8,10,15];
 let xAxis = d3.axisBottom(x)
     .tickSize(H+3).tickSizeOuter(0)
     .tickValues(d3.merge([1,2,3].map(e=>xvals.map(m=>m*Math.pow(10,e)))).concat([20000]))
