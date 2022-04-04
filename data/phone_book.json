@@ -53,7 +53,7 @@
     "phones": [ "DIY Xelento" ]
   },
   {	"name":   "Drop",
-    "phones": [ "Grell TWS1X", "Grell TWS1X (Broken)", {"name":"x Nuforce Move","file":"Move"} ]
+    "phones": [ "Grell TWS1X", "Grell TWS1X (broken)", {"name":"x Nuforce Move","file":"Move"} ]
   },
   {	"name":   "Dunu",
     "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S","Zen","Zen Pro" ]
@@ -157,7 +157,7 @@
     "phones": [ "E12 Ultra TWS"]
   },
   {	"name":   "Samsung",
-    "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}]
+    "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}, {"name":"Galaxy Buds Live","file":["Galaxy Buds Live", "Galaxy Buds Live Bass", "Galaxy Buds Live Soft", "Galaxy Buds Live Dynamic", "Galaxy Buds Live Clear", "Galaxy Buds Live Treble"]}]
   },
   {	"name":   "SeeAudio",
     "phones": [ "Yume", {"name":"x Crinacle Yume Midnight","file":"Yume Midnight"}]
