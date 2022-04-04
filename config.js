@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["Antdroid Target"],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["Antdroid v3 Target"],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
 DIR = "data/",                                // Directory where graph files are stored
 data_format = "REW",                   // Accepts "AudioTools," "REW," or "other"
 default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
@@ -16,8 +16,8 @@ page_title = "Audio Discourse Graphs";                     // Optional. Appended
 // Specify which targets to display
 const targets = [
     //{ type:"Industry"   , files:["Etymotic","Harman","In-Ear Fidelity"] },
-   //{ type:"Reviewer", files:["Antdroid","BGGAR","Oratory1990","Precog","Toranku"] }
-    { type:"", files:["Antdroid","BGGAR","Etymotic","Harman","In-Ear Fidelity","USOUND1V1 Oratory1990","Precog","Super","Toranku"] }
+   //{ type:"Reviewer", files:["Antdroid v3","BGGAR","Oratory1990","Precog","Toranku"] }
+    { type:"", files:["Antdroid V3","BGGAR","Etymotic","Harman","In-Ear Fidelity","USOUND1V1 Oratory1990","Precog","Super","Toranku"] }
 ];
 
 
