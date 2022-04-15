@@ -67,6 +67,9 @@
   {	"name":   "Etymotic Filter Kit",
     "phones": [ "ER3XR Green", "ER3XR Brown", "ER3XR Red", "ER3XR Orange", "ER3XR White", "ER3XR None"]
   },
+  {	"name":   "Elysian",
+    "phones": [ "Diva" ]
+  },
   {	"name":   "F-Audio",
     "phones": [ "Major" ]
   },
@@ -101,6 +104,9 @@
   },
   {	"name":   "iBasso",
     "phones": [ "IT01s", "IT04"]
+  },
+  {	"name":   "ikko",
+    "phones": [ "Opal OH2"]
   },
   {	"name":   "KB Ear",
     "phones": [ "Hi7"]
@@ -174,6 +180,9 @@
   {	"name":   "Simgot",
     "phones": [ "EN700 Pro"]
   },
+  {	"name":   "Simphonio",
+    "phones": [ "VR1"]
+  },
   {	"name":   "Sony",
     "phones": [ "IER-M9", "MH755", "WF-1000XM3"]
   },
@@ -205,7 +214,7 @@
     "phones": ["BAX", "V90", {"name":"VX","file":"TRN VX"}, "X7"]
   },
   {	"name":   "Unique Melody",
-    "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}]
+    "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}, "MEXT"]
   },
   {	"name":   "Vision Ears",
     "phones": [ {"name":"Elysium","file":["Elysium", "Elysium 2 ohm"]}, {"name":"Erlkonig","file":["Erlkonig 1", "Erlkonig 2", "Erlkonig 3", "Erlkonig 4"]}, "EVE20", "EXT","Phonix", "VE8"]
