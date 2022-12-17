@@ -56,7 +56,7 @@
     "phones": [ "Grell TWS1X", "Grell TWS1X (broken)", {"name":"x Nuforce Move","file":"Move"} ]
   },
   {	"name":   "Dunu",
-    "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S","Vulkan", "Zen","Zen Pro" ]
+    "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Kima", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S","Vulkan", "Zen","Zen Pro" ]
   },
   {	"name":   "Empire Ears",
     "phones": [ {"name":"Odin", "file":["Odin","Odin Sample 2"]}, "Wraith", "Valkyrie" ]
@@ -115,7 +115,7 @@
     "phones": [ "BD005 Pro"]
   },
   {	"name":   "Kiwi Ears",
-    "phones": [ "Orchestra"]
+    "phones": [ "Cadenza", "Orchestra"]
   },
   {	"name":   "KZ",
     "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX","x HBB DQ6S","Crinacle CRN", "E10 TWS", "EDX Ultra", "S2 TWS","ZEX Pro", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
@@ -125,9 +125,6 @@
   },
   {	"name":   "LZ",
     "phones": [{"name":"A4 Pro (Disc, Nozzle)","file":["LZ A4 Pro Blk Blk", "LZ A4 Pro Blk Blu", "LZ A4 Pro Blk Sil","LZ A4 Pro Blk Red","LZ A4 Pro Blu Blk","LZ A4 Pro Blu Blu", "LZ A4 Pro Blu Sil","LZ A4 Pro Blu Red","LZ A4 Pro Red Blk","LZ A4 Pro Red Blu","LZ A4 Pro Red Sil","LZ A4 Pro Red Red"]},{"name":"A7 (Switch, Nozzle)","file":["A7 off Black", "A7 off Blue", "A7 off Gold", "A7 off Red", "A7 off Silver", "A7 on Black", "A7 on Blue", "A7 on Gold", "A7 on Red", "A7 on Silver"]}]
-  },
-  {	"name":   "XENNS/Mangird",
-    "phones": [ "MT4", "Tea", "Tea 2"]
   },
   {	"name":   "Meze",
     "phones": [ "Rai Penta"]
@@ -172,7 +169,7 @@
     "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}, {"name":"Galaxy Buds Live","file":["Galaxy Buds Live", "Galaxy Buds Live Bass", "Galaxy Buds Live Soft", "Galaxy Buds Live Dynamic", "Galaxy Buds Live Clear", "Galaxy Buds Live Treble"]}]
   },
   {	"name":   "SeeAudio",
-    "phones": [ "Yume", {"name":"x Crinacle Yume Midnight","file":"Yume Midnight"}]
+    "phones": [ "Yume", {"name":"x Crinacle Yume Midnight","file":"Yume Midnight"}, "Yume 2"]
   },
   {	"name":   "Shozy",
     "phones": ["Ceres", "Form 1.1", "Form 1.4", "V33"]
@@ -224,5 +221,8 @@
   },
   {	"name":   "WG",
     "phones": [ "T One"]
-  }
+  },
+  {	"name":   "XENNS/Mangird",
+      "phones": [ "MT4", "Tea", "Tea 2", "Top"]
+    }
 ]
