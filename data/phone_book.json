@@ -196,7 +196,7 @@
     "phones": [ "No3"]
   },
   {	"name":   "Tin Hifi",
-    "phones": [ {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P1 Max", "P2", "T1 Plus","T2 DLC", "T2 Evo", "T2 Plus", "T3 Plus", "T4", "T5", "TWS 2000", "TWS 2000 Wired"]
+    "phones": [ "C2", "C3", {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P1 Max", "P2", "T1 Plus","T2 DLC", "T2 Evo", "T2 Plus", "T3 Plus", "T4", "T4 Plus", "T5", "TWS 2000", "TWS 2000 Wired"]
   },
   {	"name":   "Tipsy",
     "phones": [ "Dunmer Pro", "TTROMS"]
