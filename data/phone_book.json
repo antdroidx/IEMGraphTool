@@ -1,5 +1,4 @@
 [
-
   {	"name":   "64 Audio",
     "phones": [ {"name":"Nio","file":["Nio M15","Nio M20", 	"Nio MX", "Nio No Filter"]}, "Tia Trio", {"name":"U12T","file":["U12T M15","U12T M20"]} ]
   },
@@ -100,7 +99,7 @@
     "phones": [ "Devil", "PD1"]
   },
   {	"name":   "Hidition",
-    "phones": [ "Viento A", "Viento B", "Viento C", "Viento D", "Viento-B CIEM"]
+    "phones": [ "T1", "Viento A", "Viento B", "Viento C", "Viento D", "Viento-B CIEM"]
   },
   {	"name":   "iBasso",
     "phones": [ "IT01s", "IT04"]
