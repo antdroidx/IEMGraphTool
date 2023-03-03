@@ -6,6 +6,9 @@
   {	"name":   "7Hz",
     "phones": [ "Eternal","Timeless", "x Crinacle Dioko","Zero"]
   },
+  {	"name":   "7th Acoustics",
+    "phones": [ "Proxima", "SuperNova"]
+  },
   {	"name":   "AKG",
     "phones": [ "Samsung IG955BSEGW" ]
   },
@@ -87,16 +90,13 @@
   "suffix":	"Audio",
   "phones": [ "VxV"]
   },
-  {
-    "name":   "Gold Planar",
+  {  "name":   "Gold Planar",
     "phones": [ "GL12 Filter", "GL12 No Filter"]
   },
-  {
-    "name":   "GuideRay",
+  {  "name":   "GuideRay",
     "phones": [ "GR-I18"]
   },
-  {
-    "name":   "HarmonicDyne",
+  {  "name":   "HarmonicDyne",
     "phones": [ "Devil", "PD1"]
   },
   {	"name":   "Hidition",
