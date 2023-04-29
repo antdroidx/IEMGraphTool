@@ -4,12 +4,12 @@ DIR = "data/",                                // Directory where graph files are
 data_format = "REW",                   // Accepts "AudioTools," "REW," or "other"
 default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
 default_normalization = "Hz",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
-default_norm_db = 60,                         // Sets default dB normalization point
+default_norm_db = 75,                         // Sets default dB normalization point
 default_norm_hz = 500,                       // Sets default Hz normalization point
 max_channel_imbalance = 5,                    // ???
 alt_layout = true,                           // Toggle between classic and alt layouts
 share_url = true,                             // If true, enables shareable URLs
-watermark_text = "http://www.AudioDiscourse.com",                 // Optional. Watermark appears behind graphs
+watermark_text = "AudioDiscourse.com | IEC-60138-4",                 // Optional. Watermark appears behind graphs
 watermark_image_url = "logo.png",   // Optional. If image file is in same directory as config, can be just the filename
 page_title = "Audio Discourse Graphs";                     // Optional. Appended to the page title if share URLs are enabled
 
@@ -37,7 +37,7 @@ function watermark(svg) {
 
   if ( watermark_text ) {
     wm.append("text")
-    .attrs({x:250, y:170, "font-size":16, "font-family":"tahoma", "text-anchor":"middle", "class":"graph-name"})
+    .attrs({x:240, y:170, "font-size":16, "font-family":"tahoma", "text-anchor":"middle", "class":"graph-name"})
     .text(watermark_text);
   }
 }
