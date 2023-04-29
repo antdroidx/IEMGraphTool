@@ -4,7 +4,7 @@
     "phones": [ {"name":"Nio","file":["Nio M15","Nio M20", 	"Nio MX", "Nio No Filter"]}, "Tia Trio", {"name":"U12T","file":["U12T M15","U12T M20"]} ]
   },
   {	"name":   "7Hz",
-    "phones": [ "Eternal","Timeless", "x Crinacle Dioko","Zero"]
+    "phones": [ "Eternal", "Legato", "Timeless", "x Crinacle Dioko","Zero"]
   },
   {	"name":   "7th Acoustics",
     "phones": [ "Proxima", "SuperNova"]
@@ -115,7 +115,7 @@
     "phones": [ "BD005 Pro"]
   },
   {	"name":   "Kiwi Ears",
-    "phones": [ "Cadenza", "Orchestra"]
+    "phones": [ "Cadenza", "Orchestra", "Orchestra Lite"]
   },
   {	"name":   "KZ",
     "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX","x HBB DQ6S","Crinacle CRN", "E10 TWS", "EDX Ultra", "S2 TWS","ZEX Pro", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
@@ -175,7 +175,7 @@
     "phones": ["Ceres", "Form 1.1", "Form 1.4", "V33"]
   },
   {	"name":   "Simgot",
-    "phones": [ "EN700 Pro"]
+    "phones": [ "EA500 Black", "EA500 Red", "EN700 Pro", "EW100P"]
   },
   {	"name":   "Simphonio",
     "phones": [ "VR1"]
