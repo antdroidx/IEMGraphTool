@@ -181,7 +181,7 @@
     "phones": [ "VR1"]
   },
   {	"name":   "Sony",
-    "phones": [ "IER-M9", "MH755", "WF-1000XM3","XBA-N3"]
+    "phones": [ "IER-M9", "MH-EX300AP", "MH755", "WF-1000XM3","XBA-N3"]
   },
   {	"name":   "Status Audio",
     "phones": [ "BT Transfer"]
@@ -214,7 +214,7 @@
     "phones": ["x Crinacle Zero"]
   },
   {	"name":   "Unique Melody",
-    "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}, "MEXT"]
+    "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}, "MEXT","U-Free"]
   },
   {	"name":   "Vision Ears",
     "phones": [ {"name":"Elysium","file":["Elysium", "Elysium 2 ohm"]}, {"name":"Erlkonig","file":["Erlkonig 1", "Erlkonig 2", "Erlkonig 3", "Erlkonig 4"]}, "EVE20", "EXT","Phonix", "VE8"]
