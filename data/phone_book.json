@@ -171,6 +171,9 @@
   {	"name":   "SeeAudio",
     "phones": [ "Yume", {"name":"x Crinacle Yume Midnight","file":"Yume Midnight"}, "Yume 2"]
   },
+  {	"name":   "SeekReal",
+    "phones": [ "Dawn Pro"]
+  },
   {	"name":   "Shozy",
     "phones": ["Ceres", "Form 1.1", "Form 1.4", "V33"]
   },
