@@ -118,7 +118,7 @@
     "phones": [ "BD005 Pro"]
   },
   {	"name":   "Kiwi Ears",
-    "phones": [ "Cadenza", "Orchestra", "Orchestra Lite"]
+    "phones": [ "Cadenza", "Dolce", "Orchestra", "Orchestra Lite"]
   },
   {	"name":   "KZ",
     "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX","x HBB DQ6S","Crinacle CRN", "E10 TWS", "EDX Ultra", "S2 TWS","ZEX Pro", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
@@ -211,7 +211,7 @@
     "phones": [{"name":"i4","file":"Tri i4"}]
   },
   {	"name":   "Tripowin",
-    "phones": [ "Lea","TC01", "TP10"]
+    "phones": [ "Piccolo", "Lea","TC01", "TP10"]
   },
   {	"name":   "TRN",
     "phones": ["BAX", "V90", {"name":"VX","file":"TRN VX"}, "X7"]
