@@ -109,7 +109,7 @@
     "phones": [ "IT01s", "IT04"]
   },
   {	"name":   "ikko",
-    "phones": [ "Opal OH2"]
+    "phones": [ "Opal OH2", "OH10"]
   },
   {	"name":   "KB Ear",
     "phones": [ "Hi7"]
@@ -118,7 +118,7 @@
     "phones": [ "BD005 Pro"]
   },
   {	"name":   "Kiwi Ears",
-    "phones": [ "Cadenza", "Dolce", "Orchestra", "Orchestra Lite"]
+    "phones": [ "Cadenza", "Dolce", "Orchestra", "Orchestra Lite", "Quartet"]
   },
   {	"name":   "KZ",
     "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX","x HBB DQ6S","Crinacle CRN", "E10 TWS", "EDX Ultra", "S2 TWS","ZEX Pro", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
@@ -163,7 +163,7 @@
     "phones": [ "VK4"]
   },
   {	"name":   "Rapt-Go",
-    "phones": [ "HOOK-X", "Leaf"]
+    "phones": [ "Bridge", "HOOK-X", "Leaf"]
   },
   {	"name":   "Sabbat",
     "phones": [ "E12 Ultra TWS"]
@@ -220,7 +220,7 @@
     "phones": ["x Crinacle Zero"]
   },
   {	"name":   "Unique Melody",
-    "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}, "MEXT","U-Free"]
+    "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}, "Mest Mk3", "MEXT","U-Free"]
   },
   {	"name":   "Vision Ears",
     "phones": [ {"name":"Elysium","file":["Elysium", "Elysium 2 ohm"]}, {"name":"Erlkonig","file":["Erlkonig 1", "Erlkonig 2", "Erlkonig 3", "Erlkonig 4"]}, "EVE20", "EXT","Phonix", "VE8"]
