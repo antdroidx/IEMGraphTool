@@ -192,6 +192,9 @@
   {	"name":   "Status Audio",
     "phones": [ "BT Transfer"]
   },
+  {	"name":   "Subtonic",
+    "phones": [ "Storm"]
+  },
   {	"name":   "Symphonium",
     "phones": [ "Helios", "Meteor", "Triton"]
   },
