@@ -102,6 +102,9 @@
   {  "name":   "HarmonicDyne",
     "phones": [ "Devil", "PD1"]
   },
+  {  "name":   "Hidizs",
+    "phones": [ "MP145 Gold", "MP145 Silver", "MP145 Red"]
+  },
   {	"name":   "Hidition",
     "phones": [ "T1", "Viento A", "Viento B", "Viento C", "Viento D", "Viento-B CIEM"]
   },
