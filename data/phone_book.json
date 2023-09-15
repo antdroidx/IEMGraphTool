@@ -121,7 +121,7 @@
     "phones": [ "BD005 Pro"]
   },
   {	"name":   "Kiwi Ears",
-    "phones": [ "Cadenza", "Dolce", "Orchestra", "Orchestra Lite", "Quartet"]
+    "phones": [ "Cadenza", "Dolce", "Orchestra", "Orchestra Lite", "Quartet", "Quintet"]
   },
   {	"name":   "KZ",
     "phones": [ "AS16", "AS16 Tape Mod", "ASF", "ASX","x HBB DQ6S","Crinacle CRN", "E10 TWS", "EDX Ultra", "S2 TWS","ZEX Pro", "ZS7", "ZS10 Pro", "ZSN Pro", "Z1 TWS", "ZSX"]
@@ -202,7 +202,7 @@
     "phones": [ "Storm"]
   },
   {	"name":   "Symphonium",
-    "phones": [ "Helios", "Meteor", "Triton"]
+    "phones": [ "Crimson", "Helios", "Meteor", "Triton"]
   },
   {	"name":   "Thieaudio",
     "phones": [ "Clairvoyance", "Elixir","Legacy 2", {"name":"Legacy 3","file":["Legacy 3", "Legacy 3 01", "Legacy 3 10", "Legacy 3 11"]}, "Legacy 3 CIEM", {"name":"Legacy 4","file":["Legacy 4", "Legacy 4 01", "Legacy 4 10", "Legacy 4 11"]}, "Legacy 5", {"name":"Monarch","file":["Monarch","Monarch (Sample 2)"]}, "Monarch MK2", {"name":"Voyager 3","file":["Voyager 3", "Voyager 3 01", "Voyager 3 10", "Voyager 3 11"]}, "Voyager 14"]
