@@ -187,10 +187,13 @@
     "phones": ["Ceres", "Form 1.1", "Form 1.4", "V33"]
   },
   {	"name":   "Simgot",
-    "phones": [ "EA500 Black", "EA500 Red", "EN700 Pro", "EW100P"]
+    "phones": [ "EA500 Black", "EA500 Red","EM6L", "EN700 Pro", "EW100P"]
   },
   {	"name":   "Simphonio",
     "phones": [ "VR1"]
+  },
+  {	"name":   "Sivga",
+    "phones": [ "Nightengale"]
   },
   {	"name":   "Sony",
     "phones": [ "IER-M9", "MH-EX300AP", "MH755", "WF-1000XM3","XBA-N3"]
