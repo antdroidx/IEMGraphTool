@@ -61,6 +61,9 @@
   {	"name":   "Dunu",
     "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Kima", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S","Vulkan", "Zen","Zen Pro" ]
   },
+  {	"name":   "Elysian",
+    "phones": [ {"name":"Annihilator", "file":["Annihilator 2023","Annihilator 2023-2"]}, {"name":"Diva", "file":["Diva Mid","Diva Max", "Diva Min"]} ]
+  },
   {	"name":   "Empire Ears",
     "phones": [ {"name":"Odin", "file":["Odin","Odin Sample 2"]}, "Wraith", "Valkyrie" ]
   },
@@ -69,9 +72,6 @@
   },
   {	"name":   "Etymotic Filter Kit",
     "phones": [ "ER3XR Green", "ER3XR Brown", "ER3XR Red", "ER3XR Orange", "ER3XR White", "ER3XR None"]
-  },
-  {	"name":   "Elysian",
-    "phones": [ "Annihilator 2023", "Diva" ]
   },
   {	"name":   "F-Audio",
     "phones": [ "Major" ]
@@ -214,7 +214,7 @@
     "phones": [ "No3"]
   },
   {	"name":   "Tin Hifi",
-    "phones": [ "C2", "C3", "C5", {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P1 Max", "P2", "T1 Plus","T2 DLC", "T2 Evo", "T2 Plus", "T3 Plus", "T4", "T4 Plus", "T5", "TWS 2000", "TWS 2000 Wired"]
+    "phones": [ "C2", "C3", "C5", {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P1 Max", "P2", "T1 Plus","T2 DLC", "T2 Evo", "T2 Plus", "T3 Plus", "T4", "T4 Plus", "T5", "T5S", "TWS 2000", "TWS 2000 Wired"]
   },
   {	"name":   "Tipsy",
     "phones": [ "Dunmer Pro", "TTROMS"]
