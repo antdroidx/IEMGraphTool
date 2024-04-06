@@ -116,6 +116,9 @@
   {	"name":   "KB Ear",
     "phones": [ "Hi7"]
   },
+  {	"name":   "Kefine",
+    "phones": [ "Delci"]
+  },
   {	"name":   "Kinera",
     "phones": [ "BD005 Pro"]
   },
@@ -183,7 +186,7 @@
     "phones": [ "Sono"]
   },
   {	"name":   "Shozy",
-    "phones": ["Ceres", "Form 1.1", "Form 1.4", "V33"]
+    "phones": ["Ceres", "Form 1.1", "Form 1.4", "P20", "V33"]
   },
   {	"name":   "Simgot",
     "phones": [ "EA500 Black", "EA500 Red",{"name":"EA1000 Fermat","file":["EA1000 Red", "EA1000 Black", "EA1000 Gold"]}, "EM6L", "EN700 Pro", "EW100P"]
