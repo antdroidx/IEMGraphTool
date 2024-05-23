@@ -141,7 +141,7 @@
     "phones": [ "Homunculus", "Thummim"]
   },
   {	"name":   "Moondrop",
-    "phones": [ "Aria", "Blessing 2", "Chu", "Dusk", "Kanas Pro", "KXXS", "Spaceship", "SSR", "Starfield 2"]
+    "phones": [ "Aria", "Blessing 2", "Chu", "Dusk", "Golden Ages", "Kanas Pro", "KXXS", "Spaceship", "SSR", "Starfield 2"]
   },
   {	"name":   "Newmine",
     "phones": [ "R9 TWS"]
@@ -174,7 +174,7 @@
     "phones": [ "E12 Ultra TWS"]
   },
   {	"name":   "Samsung",
-    "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}, {"name":"Galaxy Buds Live","file":["Galaxy Buds Live", "Galaxy Buds Live Bass", "Galaxy Buds Live Soft", "Galaxy Buds Live Dynamic", "Galaxy Buds Live Clear", "Galaxy Buds Live Treble"]}]
+    "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}, "Galaxy Buds Pro 2", {"name":"Galaxy Buds Live","file":["Galaxy Buds Live", "Galaxy Buds Live Bass", "Galaxy Buds Live Soft", "Galaxy Buds Live Dynamic", "Galaxy Buds Live Clear", "Galaxy Buds Live Treble"]}]
   },
   {	"name":   "SeeAudio",
     "phones": [ "Yume", {"name":"x Crinacle Yume Midnight","file":"Yume Midnight"}, "Yume 2"]
@@ -198,7 +198,7 @@
     "phones": [ "Nightengale"]
   },
   {	"name":   "Sony",
-    "phones": [ "IER-M9", "MH-EX300AP", "MH755", "WF-1000XM3","XBA-N3"]
+    "phones": [ "IER-M9", "MH-EX300AP", "MH755", "WF-1000XM3", "WF-1000XM4","XBA-N3"]
   },
   {	"name":   "Status Audio",
     "phones": [ "BT Transfer"]
@@ -207,7 +207,7 @@
     "phones": [ "Storm"]
   },
   {	"name":   "Symphonium",
-    "phones": [ "Crimson", "Helios", "Meteor", "Triton"]
+    "phones": [ "Crimson", "Helios", "Meteor", "Titan", "Triton"]
   },
   {	"name":   "Thieaudio",
     "phones": [ "Clairvoyance", "Elixir","Legacy 2", {"name":"Legacy 3","file":["Legacy 3", "Legacy 3 01", "Legacy 3 10", "Legacy 3 11"]}, "Legacy 3 CIEM", {"name":"Legacy 4","file":["Legacy 4", "Legacy 4 01", "Legacy 4 10", "Legacy 4 11"]}, "Legacy 5", {"name":"Monarch","file":["Monarch","Monarch (Sample 2)"]}, "Monarch MK2", {"name":"Voyager 3","file":["Voyager 3", "Voyager 3 01", "Voyager 3 10", "Voyager 3 11"]}, "Voyager 14"]
@@ -216,7 +216,7 @@
     "phones": [ "No3"]
   },
   {	"name":   "Tin Hifi",
-    "phones": [ "C2", "C3", "C5", {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P1 Max", "P2", "T1 Plus","T2 DLC", "T2 Evo", "T2 Plus", "T3 Plus", "T4", "T4 Plus", "T5", "T5S", "TWS 2000", "TWS 2000 Wired"]
+    "phones": [ "C2", "C3", "C5", {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P1 Max", "P1 Max II", "P2", "T1 Plus","T2 DLC", "T2 Evo", "T2 Plus", "T3 Plus", "T4", "T4 Plus", "T5", "T5S", "TWS 2000", "TWS 2000 Wired"]
   },
   {	"name":   "Tipsy",
     "phones": [ "Dunmer Pro", "TTROMS"]
