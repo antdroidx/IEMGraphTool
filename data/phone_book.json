@@ -189,7 +189,7 @@
     "phones": ["Ceres", "Form 1.1", "Form 1.4", "P20", "V33"]
   },
   {	"name":   "Simgot",
-    "phones": [ "EA500 Black", "EA500 Red",{"name":"EA1000 Fermat","file":["EA1000 Red", "EA1000 Black", "EA1000 Gold"]}, "EM6L", "EN700 Pro", "EW100P"]
+    "phones": [ {"name":"EA500","file":["EA500 Red", "EA500 Black"]},{"name":"EA500LM","file":["EA500LM Gold", "EA500LM Red", "EA500LM Black"]},{"name":"EA1000 Fermat","file":["EA1000 Red", "EA1000 Black", "EA1000 Gold"]}, "EM6L", "EN700 Pro", "EW100P"]
   },
   {	"name":   "Simphonio",
     "phones": [ "VR1"]
