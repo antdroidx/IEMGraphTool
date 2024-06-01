@@ -231,7 +231,7 @@
     "phones": ["BAX", "V90", {"name":"VX","file":"TRN VX"}, "X7"]
   },
   {	"name":   "TruthEar",
-    "phones": ["x Crinacle Zero"]
+    "phones": ["x Crinacle Zero", "Gate"]
   },
   {	"name":   "Unique Melody",
     "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}, "Mest MK3", "MEXT","U-Free", "Multiverse Mentor"]
