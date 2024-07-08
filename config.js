@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["Antdroid v4 Target"],            // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["Antdroid v5 Target"],            // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "dB",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
@@ -41,7 +41,7 @@ const init_phones = ["Antdroid v4 Target"],            // Optional. Which graphs
 // Specify which targets to display
 const targets = [
   { type:"Industry"   , files:["Etymotic","Harman","Listen Inc"] },
- { type:"Antdroid", files:["Antdroid v2","Antdroid v3","Antdroid v4", "Bassdroid"] },
+ { type:"Antdroid", files:["Antdroid v5", "Antdroid v5 Lite", "Bassdroid v2" ] },
  { type:"Reviewer", files:["BGGAR","In-Ear Fidelity","Precog","Toranku","USOUND1V1 Oratory1990"] }
 ];
 
