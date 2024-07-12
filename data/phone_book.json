@@ -58,7 +58,7 @@
     "phones": [ "Grell TWS1X", "Grell TWS1X (broken)", {"name":"x Nuforce Move","file":"Move"} ]
   },
   {	"name":   "Dunu",
-    "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Kima", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S","Vulkan", "Zen","Zen Pro" ]
+    "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Kima", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S", "Titan S2", "Vulkan", "Zen","Zen Pro" ]
   },
   {	"name":   "Elysian",
     "phones": [ {"name":"Annihilator", "file":["Annihilator 2023","Annihilator 2023-2"]}, {"name":"Diva", "file":["Diva Mid","Diva Max", "Diva Min"]} ]
