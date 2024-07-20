@@ -90,7 +90,7 @@
   },
   {	"name":   "FiR",
   "suffix":	"Audio",
-  "phones": [ "VxV"]
+  "phones": [ "RN6", "VxV", "XE6"]
   },
   {  "name":   "Gold Planar",
     "phones": [ "GL12 Filter", "GL12 No Filter"]
@@ -172,6 +172,9 @@
   },
   {	"name":   "Rapt-Go",
     "phones": [ "Bridge", "HOOK-X", "Leaf"]
+  },
+  {	"name":   "Rhapsidio",
+    "phones": [ "Supreme V3"]
   },
   {	"name":   "Sabbat",
     "phones": [ "E12 Ultra TWS"]
