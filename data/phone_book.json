@@ -180,7 +180,7 @@
     "phones": [ "E12 Ultra TWS"]
   },
   {	"name":   "Samsung",
-    "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}, "Galaxy Buds Pro 2", {"name":"Galaxy Buds Live","file":["Galaxy Buds Live", "Galaxy Buds Live Bass", "Galaxy Buds Live Soft", "Galaxy Buds Live Dynamic", "Galaxy Buds Live Clear", "Galaxy Buds Live Treble"]}]
+    "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}, "Galaxy Buds 2 Pro", {"name":"Galaxy Buds 3 Pro","file":["Galaxy Buds 3 Pro", "Galaxy Buds 3 Pro ANC", "Galaxy Buds 3 Pro ANC EQ"]}, {"name":"Galaxy Buds Live","file":["Galaxy Buds Live", "Galaxy Buds Live Bass", "Galaxy Buds Live Soft", "Galaxy Buds Live Dynamic", "Galaxy Buds Live Clear", "Galaxy Buds Live Treble"]}]
   },
   {	"name":   "SeeAudio",
     "phones": [ "Yume", {"name":"x Crinacle Yume Midnight","file":"Yume Midnight"}, "Yume 2"]
