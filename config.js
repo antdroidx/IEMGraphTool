@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["Antdroid v5 Target"],            // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["Antdroid v6 Target"],            // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "dB",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
@@ -40,9 +40,9 @@ const init_phones = ["Antdroid v5 Target"],            // Optional. Which graphs
 
 // Specify which targets to display
 const targets = [
- { type:"Antdroid", files:["Antdroid v5", "Antdroid v5 Lite", "Bassdroid v2" ] },
-  { type:"Industry"   , files:["Etymotic","Harman","Listen Inc", "JM-1 (Tilt-1dB Oct)", "ISO 11904-1 DF (Tilt-1dB Oct)"] },
- { type:"Reviewer", files:["BGGAR","In-Ear Fidelity","Precog","Toranku","USOUND1V1 Oratory1990"] }
+ { type:"Antdroid", files:["Antdroid v6",  "Antdroid v6 Lite", "Antdroid v6 Bass"] },
+  { type:"Industry"   , files:["Harman","Listen Inc", "JM-1 (Tilt-1dB Oct)", "ISO 11904-1 DF (Tilt-1dB Oct)"] },
+ { type:"Reviewer", files:["Acho", "HBB", "Crinacle", "In-Ear Fidelity","Precog","Super 22","Toranku","USOUND1V1 Oratory1990"] }
 ];
 
 
@@ -129,15 +129,6 @@ const
 
         <p>Lorem ipsum dolor sit amet, <a href="">consectetur adipiscing elit</a>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque non tellus orci ac. Dictumst quisque sagittis purus sit amet volutpat consequat. Vitae nunc sed velit dignissim sodales ut. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Dignissim enim sit amet venenatis urna cursus eget nunc. Mi proin sed libero enim. Ut sem viverra aliquet eget sit amet. Integer enim neque volutpat ac tincidunt vitae. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Lacus luctus accumsan tortor posuere ac ut consequat semper. Non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus. Aliquam sem et tortor consequat id. Cursus sit amet dictum sit amet justo donec. Donec adipiscing tristique risus nec feugiat in fermentum posuere.</p>
 
-        <p>Diam donec adipiscing tristique risus nec. Amet nisl purus in mollis. Et malesuada fames ac turpis egestas maecenas pharetra. Ante metus dictum at tempor commodo ullamcorper a. Dui id ornare arcu odio ut sem nulla. Ut pharetra sit amet aliquam id diam maecenas. Scelerisque in dictum non consectetur a erat nam at. In ante metus dictum at tempor. Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Euismod nisi porta lorem mollis aliquam ut porttitor leo a. Malesuada proin libero nunc consequat interdum. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Quis blandit turpis cursus in hac habitasse. Amet commodo nulla facilisi nullam vehicula ipsum a.</p>
-
-        <p>Mauris ultrices eros in cursus turpis massa tincidunt. Aliquam ut porttitor leo a diam sollicitudin. Curabitur vitae nunc sed velit. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Lectus nulla at volutpat diam ut. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Tincidunt id aliquet risus feugiat in ante metus. Elementum nibh tellus molestie nunc non blandit massa enim. Ac tortor vitae purus faucibus ornare suspendisse. Pellentesque sit amet porttitor eget. Commodo quis imperdiet massa tincidunt. Nunc sed id semper risus in hendrerit gravida. Proin nibh nisl condimentum id venenatis a condimentum. Tortor at risus viverra adipiscing at in. Pharetra massa massa ultricies mi quis hendrerit dolor. Tempor id eu nisl nunc mi ipsum faucibus vitae.</p>
-
-        <h2>Tellus orci</h2>
-
-        <p>Viverra mauris in aliquam sem. Viverra tellus in hac habitasse platea. Facilisi nullam vehicula ipsum a arcu cursus. Nunc sed augue lacus viverra vitae congue eu. Pretium fusce id velit ut tortor pretium viverra suspendisse. Eu scelerisque felis imperdiet proin. Tincidunt arcu non sodales neque sodales ut etiam sit amet. Tellus at urna condimentum mattis pellentesque. Congue nisi vitae suscipit tellus. Ut morbi tincidunt augue interdum.</p>
-
-        <p>Scelerisque in dictum non consectetur a. Elit pellentesque habitant morbi tristique senectus et. Nulla aliquet enim tortor at auctor urna nunc id. In ornare quam viverra orci. Auctor eu augue ut lectus arcu bibendum at varius vel. In cursus turpis massa tincidunt dui ut ornare lectus. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor eu. A diam sollicitudin tempor id. Tellus mauris a diam maecenas sed enim ut sem. Pellentesque id nibh tortor id aliquet lectus proin. Fermentum et sollicitudin ac orci phasellus. Dolor morbi non arcu risus quis. Bibendum enim facilisis gravida neque. Tellus in metus vulputate eu scelerisque felis. Integer malesuada nunc vel risus commodo. Lacus laoreet non curabitur gravida arcu.</p>
     `,
     // Customize the count of widget divs, and customize the contents of them. As long as they're wrapped in the widget div, they should auto-wrap and maintain margins between themselves
     widgets = `
@@ -266,37 +257,37 @@ let headerLogoText = "Audio Discourse",
 
 let tutorialDefinitions = [
     {
-        name: 'Sub bass',
+        name: 'Sub-Bass',
         width: '20.1%',
         description: 'Rumble'
     },
     {
-        name: 'Mid bass',
+        name: 'Bass',
         width: '19.2%',
         description: 'Punch'
     },
     {
-        name: 'Lower midrange',
+        name: 'Mid-Range',
         width: '17.4%',
         description: 'Body'
     },
     {
-        name: 'Upper midrange',
+        name: 'Upper-Mids',
         width: "20%",
         description: 'Upper-Mids'
     },
     {
-        name: 'Presence region',
+        name: 'Lower-Treble',
         width: '6%',
-        description: 'Lower Treble'
+        description: 'Presence'
     },
     {
-        name: 'Mid treble',
+        name: 'Treble',
         width: '7.3%',
         description: 'Sibilance'
     },
     {
-        name: 'Air',
+        name: 'Upper-Treble',
         width: '10%',
         description: 'Treble Extension'
     }
