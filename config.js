@@ -40,8 +40,8 @@ const init_phones = ["Antdroid v5 Target"],            // Optional. Which graphs
 
 // Specify which targets to display
 const targets = [
-  { type:"Industry"   , files:["Etymotic","Harman","Listen Inc"] },
  { type:"Antdroid", files:["Antdroid v5", "Antdroid v5 Lite", "Bassdroid v2" ] },
+  { type:"Industry"   , files:["Etymotic","Harman","Listen Inc", "JM-1 (Tilt-1dB Oct)", "ISO 11904-1 DF (Tilt-1dB Oct)"] },
  { type:"Reviewer", files:["BGGAR","In-Ear Fidelity","Precog","Toranku","USOUND1V1 Oratory1990"] }
 ];
 
