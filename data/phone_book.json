@@ -117,7 +117,7 @@
     "phones": [ "Hi7"]
   },
   {	"name":   "Kefine",
-    "phones": [ "Delci"]
+    "phones": [ "Delci", "Delci AE", "Delci AE Gold"]
   },
   {	"name":   "Kinera",
     "phones": [ "BD005 Pro"]
@@ -195,7 +195,7 @@
     "phones": ["Ceres", "Form 1.1", "Form 1.4", "P20", "V33"]
   },
   {	"name":   "Simgot",
-    "phones": [ {"name":"EA500","file":["EA500 Red", "EA500 Black"]},{"name":"EA500LM","file":["EA500LM Gold", "EA500LM Red", "EA500LM Black"]},{"name":"EA1000 Fermat","file":["EA1000 Red", "EA1000 Black", "EA1000 Gold"]}, "EM6L", "EN700 Pro", "EW100P"]
+    "phones": [ {"name":"EA500","file":["EA500 Red", "EA500 Black"]},{"name":"EA500LM","file":["EA500LM Gold", "EA500LM Red", "EA500LM Black"]},{"name":"EA1000 Fermat","file":["EA1000 Red", "EA1000 Black", "EA1000 Gold"]}, "EM6L", "EN700 Pro", "EW100P", "SuperMix 4"]
   },
   {	"name":   "Simphonio",
     "phones": [ "VR1"]

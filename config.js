@@ -42,7 +42,7 @@ const init_phones = ["Antdroid v6 Target"],            // Optional. Which graphs
 // Specify which targets to display
 const targets = [
  { type:"Antdroid", files:["Antdroid v6",  "Antdroid v6 Lite", "Antdroid v6 Bass"] },
-  { type:"Industry"   , files:["Harman","Listen Inc", "∆ ISO 11904-1 (10dB)", "∆ JM-1 (10dB)"] },
+  { type:"Industry"   , files:["Harman","Listen Inc", "∆ ISO 11904-1 (10dB)", "∆ JM-1 (10dB)", "Moondrop VSDF"] },
  { type:"Reviewer", files:["Acho", "HBB", "Crinacle", "In-Ear Fidelity","Precog","Super 22","Toranku","USOUND1V1 Oratory1990"] }
 ];
 
