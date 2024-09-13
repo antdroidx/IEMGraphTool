@@ -61,7 +61,7 @@
     "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Kima", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S", "Titan S2", "Vulkan", "Zen","Zen Pro" ]
   },
   {	"name":   "Elysian",
-    "phones": [ {"name":"Annihilator", "file":["Annihilator 2023","Annihilator 2023-2"]}, {"name":"Diva", "file":["Diva Mid","Diva Max", "Diva Min"]} ]
+    "phones": [ {"name":"Annihilator", "file":["Annihilator 2023","Annihilator 2023-2"]}, {"name":"Diva", "file":["Diva Mid","Diva Max", "Diva Min"]}, "Pilgrim", "Pilgrim Noir" ]
   },
   {	"name":   "Empire Ears",
     "phones": [ {"name":"Odin", "file":["Odin","Odin Sample 2"]}, "Wraith", "Valkyrie" ]
