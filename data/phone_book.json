@@ -131,6 +131,9 @@
   {	"name":   "LetShuoer",
     "phones": [ "D13","DZ4","EJ07M", "H27", "Singer", "Singer Blue Filter", "S12", "Tape Pro", "Tape Pro Silver Filter"]
   },
+  {	"name":   "Lime Ears",
+    "phones": [ "Terra"]
+  },
   {	"name":   "LZ",
     "phones": [{"name":"A4 Pro (Disc, Nozzle)","file":["LZ A4 Pro Blk Blk", "LZ A4 Pro Blk Blu", "LZ A4 Pro Blk Sil","LZ A4 Pro Blk Red","LZ A4 Pro Blu Blk","LZ A4 Pro Blu Blu", "LZ A4 Pro Blu Sil","LZ A4 Pro Blu Red","LZ A4 Pro Red Blk","LZ A4 Pro Red Blu","LZ A4 Pro Red Sil","LZ A4 Pro Red Red"]},{"name":"A7 (Switch, Nozzle)","file":["A7 off Black", "A7 off Blue", "A7 off Gold", "A7 off Red", "A7 off Silver", "A7 on Black", "A7 on Blue", "A7 on Gold", "A7 on Red", "A7 on Silver"]}]
   },
